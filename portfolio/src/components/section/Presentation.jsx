@@ -4,7 +4,7 @@ import Button from "../elements/Button";
 
 function Presentation() {
   const [text, setText] = useState("");
-  const phrases = ["eu sou Léo", "eu sou desenvolvedor!!"];
+  const phrases = ["eu sou Victor", "eu sou desenvolvedor!!"];
   const [currentPhraseIndex, setCurrentPhraseIndex] = useState(0);
   const [typingDirection, setTypingDirection] = useState("typing");
 
