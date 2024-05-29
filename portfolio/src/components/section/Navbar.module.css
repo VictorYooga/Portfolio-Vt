@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.navbar li {
+    margin: 10px;
+    text-decoration: none !important;
+}
+
+.navbar a {
+    color: aliceblue !important;
+}
+
+.navbar li a {
+    text-decoration: none !important;
+}

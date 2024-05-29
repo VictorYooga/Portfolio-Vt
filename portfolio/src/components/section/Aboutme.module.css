@@ -1,0 +1,42 @@
+.aboutme{
+    text-align: left;
+    margin-left: 10%;
+    margin-right:10%; 
+}
+
+.aboutme h1{
+    font-size: 35px;
+}
+
+.timeline {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+
+  .timeline img{
+    width: 78%;
+  }
+  
+.years{
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;  
+}
+
+.years p {
+  font-weight:700;
+  font-size: 20px;
+}
+
+.text {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.text p {
+  max-width: 20%;
+  margin: 5px auto; 
+  font-weight: 600;
+}
